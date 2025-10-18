@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/saverbot/__init__.py
+src/saverbot/assume.py
+src/saverbot/config.py
+src/saverbot/jsonlog.py
+src/saverbot.egg-info/PKG-INFO
+src/saverbot.egg-info/SOURCES.txt
+src/saverbot.egg-info/dependency_links.txt
+src/saverbot.egg-info/requires.txt
+src/saverbot.egg-info/top_level.txt
+tests/test_assume_errors.py
