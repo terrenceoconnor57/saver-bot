@@ -1,5 +1,8 @@
 README.md
 pyproject.toml
+src/lambdas/__init__.py
+src/lambdas/scan_ec2_unattached_ebs/__init__.py
+src/lambdas/scan_ec2_unattached_ebs/handler.py
 src/saverbot/__init__.py
 src/saverbot/assume.py
 src/saverbot/config.py
@@ -9,4 +12,7 @@ src/saverbot.egg-info/SOURCES.txt
 src/saverbot.egg-info/dependency_links.txt
 src/saverbot.egg-info/requires.txt
 src/saverbot.egg-info/top_level.txt
+src/saverbot/scanners/__init__.py
+src/saverbot/scanners/ec2_unattached.py
 tests/test_assume_errors.py
+tests/test_ec2_unattached.py
